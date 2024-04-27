@@ -12,7 +12,7 @@ Directory cleaner is a simple program for automatic folder organization based on
 or make the file executable and run:  
 './directory-cleaner.py'  
 
-3. The program will ask for a directory path. Type cwd to use the current working directory, otherwise enter a valid path ending in a /
+3. The program will ask for a directory path. Type cwd to use the current working directory, otherwise enter a valid path ending in /
 
 4. After the program has organized the directory it will print updated contents of the selected directory. If you would like to undo the changes enter y, otherwise enter n.
 
