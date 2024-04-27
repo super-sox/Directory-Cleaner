@@ -16,4 +16,4 @@ or make the file executable and run:
 
 4. After the program has organized the directory it will print updated contents of the selected directory. If you would like to undo the changes enter y, otherwise enter n.
 
-[Note] Directory Cleaner only cleans files that are not hidden and that do not contain a . in the file name.
+[Note] Directory Cleaner only organizes files that are not hidden and that do not contain a '.' in the file name.
