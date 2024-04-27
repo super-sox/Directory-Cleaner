@@ -55,7 +55,7 @@ while True:
 files = []
 for item in dir_contents: 
     #currently excludes files with more than one . in their name, such as hidden files and temporary files (i.e swap files)
-    if os.path.isfile(path + item) and len(item.split(".")) <= 2 and item != "main.py":
+    if os.path.isfile(path + item) and len(item.split(".")) <= 2 and item != "directory-cleaner.py":
         files += [item]
 
 print("Getting file types...")
